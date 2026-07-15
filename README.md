@@ -33,10 +33,10 @@ and provide:
 ## Current Progress
 
 - [x] Project problem defined
-- [ ] V1 corpus verified
-- [ ] Corpus manifest completed
-- [ ] Initial repository structure completed
-- [ ] Phase 0 audit completed
+- [x] V1 corpus verified
+- [x] Corpus manifest completed
+- [x] Initial repository structure completed
+- [x] Phase 0 audit completed
 
 ## Data
 
