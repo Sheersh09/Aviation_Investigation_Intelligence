@@ -3,3 +3,11 @@
 
 # Raw report files
 data/raw/reports/*.pdf
+
+#environment files
+.env
+
+# Phase 1 change: exclude Python test and bytecode caches generated during application validation.
+__pycache__/
+*.py[cod]
+.pytest_cache/
